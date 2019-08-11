@@ -6,6 +6,9 @@
 - Para conocer el manejo de la API, visite: https://docs.google.com/document/d/1OEPbabrJd-w9ZqyMDv6xJ_LdwwA0emzajxiYPtVR5Zw/edit
 ## Documentación de la API
 - Para conocer acerca de nuestra API, visite: https://drive.google.com/file/d/1mYVpSGqEwvg0m1S-xi6hFifzTrfr17tl/view
+## Collection POSTMAN
+Puede descargar el postman collection para que realice las pruebas:
+- https://drive.google.com/file/d/1-SjPyL68WKOnXbuL1m5ww9yGfcWOHSwm/view
 
 ## wiki facturaloperu
 http://wiki.facturaloperu.com/
