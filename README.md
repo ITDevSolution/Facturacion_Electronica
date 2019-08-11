@@ -1,9 +1,13 @@
 # Facturacion_Electronica
 
-# API_ FACTURALOPERU Manual de instalacion
-- https://drive.google.com/file/d/1oFoSQOIUrz2rWMTFOlbmdiFltSBwT_xg/view
+## API_ FACTURALOPERU Manual de instalacion
+- Para conocer el proceso de instalación de la api, visite: https://drive.google.com/file/d/1oFoSQOIUrz2rWMTFOlbmdiFltSBwT_xg/view
+## Manual de Usuario API
+- Para conocer el manejo de la API, visite: https://docs.google.com/document/d/1OEPbabrJd-w9ZqyMDv6xJ_LdwwA0emzajxiYPtVR5Zw/edit
+## Documentación de la API
+- Para conocer acerca de nuestra API, visite: https://drive.google.com/file/d/1mYVpSGqEwvg0m1S-xi6hFifzTrfr17tl/view
 
-# wiki facturaloperu
+## wiki facturaloperu
 http://wiki.facturaloperu.com/
 
 # Pagina del sistema http://2facturaloperuonline.com/login
